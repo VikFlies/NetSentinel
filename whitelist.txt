@@ -1,0 +1,7 @@
+# NetSentinel - Liste blanche d'IPs
+# Les IPs listees ici ne declencheront jamais d'alertes.
+# Une IP par ligne, les lignes commencant par # sont ignorees.
+
+# Exemple : serveurs internes
+# 192.168.1.1
+# 10.0.0.1
